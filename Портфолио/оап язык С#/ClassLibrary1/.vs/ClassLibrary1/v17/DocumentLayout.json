@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B323CED-0979-49B6-905E-DD1A0F01DB09}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\classlibrary1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B323CED-0979-49B6-905E-DD1A0F01DB09}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20186C1F-A840-42F9-B4BF-D90320A708C4}|ClassLibrary4\\ClassLibrary4.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\classlibrary1\\classlibrary4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20186C1F-A840-42F9-B4BF-D90320A708C4}|ClassLibrary4\\ClassLibrary4.csproj|solutionrelative:classlibrary4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ClassLibrary1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ClassLibrary1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:40:04.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ClassLibrary1\\ClassLibrary4\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary4\\Class1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ClassLibrary1\\ClassLibrary4\\Class1.cs*",
+              "RelativeToolTip": "ClassLibrary4\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:39:31.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

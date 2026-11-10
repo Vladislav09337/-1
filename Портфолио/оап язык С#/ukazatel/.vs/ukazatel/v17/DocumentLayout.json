@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|solutionrelative:ukazatel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|solutionrelative:ukazatel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A814D8-7E99-4A24-A20C-E2B56CC62B63}|ukazatel\\ukazatel.csproj|solutionrelative:ukazatel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\Class1.cs",
+              "RelativeDocumentMoniker": "ukazatel\\Class1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\Class1.cs",
+              "RelativeToolTip": "ukazatel\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:35:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ukazatel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\MainWindow.xaml",
+              "RelativeToolTip": "ukazatel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T04:34:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ukazatel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ukazatel\\ukazatel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ukazatel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:34:26.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

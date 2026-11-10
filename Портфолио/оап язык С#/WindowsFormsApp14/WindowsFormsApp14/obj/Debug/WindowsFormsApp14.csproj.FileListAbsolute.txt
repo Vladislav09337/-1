@@ -1,0 +1,11 @@
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe.config
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\GeometryFiguresWinForm.Form1.resources

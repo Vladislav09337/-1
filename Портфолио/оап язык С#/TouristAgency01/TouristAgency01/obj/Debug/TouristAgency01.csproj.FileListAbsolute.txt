@@ -1,0 +1,14 @@
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency00.Form1.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency00.Form2.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency00.Form3.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.csproj.CoreCompileInputs.cache
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\bin\Debug\TouristAgency01.exe.config
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\bin\Debug\TouristAgency01.exe
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\bin\Debug\TouristAgency01.pdb
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.exe
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.pdb
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency00.Form4.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency01\TouristAgency01\obj\Debug\TouristAgency01.exe.config

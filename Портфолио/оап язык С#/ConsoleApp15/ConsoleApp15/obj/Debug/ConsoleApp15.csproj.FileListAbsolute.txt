@@ -1,0 +1,8 @@
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\ivan7\Desktop\оап\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe.config

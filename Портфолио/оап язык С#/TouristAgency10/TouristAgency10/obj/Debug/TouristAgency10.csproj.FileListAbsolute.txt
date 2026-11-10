@@ -1,0 +1,7 @@
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency10.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency00.Form1.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency00.Form2.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency00.Form3.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency10.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency10.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\TouristAgency10\TouristAgency10\obj\Debug\TouristAgency10.csproj.CoreCompileInputs.cache

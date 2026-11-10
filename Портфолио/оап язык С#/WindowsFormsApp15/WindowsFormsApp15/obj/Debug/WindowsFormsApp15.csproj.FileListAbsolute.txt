@@ -1,0 +1,6 @@
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\TextProcessor.Form1.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\TextProcessor.Form2.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache

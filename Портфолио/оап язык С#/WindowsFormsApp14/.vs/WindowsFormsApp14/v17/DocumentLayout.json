@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\windowsformsapp14\\windowsformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp14||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\myellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\myellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\windowsformsapp14\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|solutionrelative:windowsformsapp14\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D225DC7-139A-4DD5-B439-F058088A2AB1}|WindowsFormsApp14\\WindowsFormsApp14.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\windowsformsapp14\\windowsformsapp14\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsFormsApp14",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\WindowsFormsApp14.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\WindowsFormsApp14.csproj",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\WindowsFormsApp14.csproj",
+              "RelativeToolTip": "WindowsFormsApp14\\WindowsFormsApp14.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-07T11:55:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:04:57.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Figure.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\Figure.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Figure.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\Figure.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:05:16.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\MyRectangle.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyRectangle.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\MyRectangle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:05:42.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyEllipse.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\MyEllipse.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyEllipse.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\MyEllipse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:05:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyLine.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\MyLine.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\MyLine.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\MyLine.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:06:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Picture.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\Picture.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Picture.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:06:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:04:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp14\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp14\\WindowsFormsApp14\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp14\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:03:51.759Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

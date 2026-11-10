@@ -1,0 +1,11 @@
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\bin\Debug\PochtaAdres.exe.config
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\bin\Debug\PochtaAdres.exe
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\bin\Debug\PochtaAdres.pdb
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.Form1.resources
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.csproj.CoreCompileInputs.cache
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.exe
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.pdb
+C:\Users\ivan7\Desktop\оап\PochtaAdres\PochtaAdres\obj\Debug\PochtaAdres.exe.config

@@ -1,0 +1,11 @@
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\Практическая_работа_20.Form20.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+C:\Users\ivan7\Desktop\оап\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe.config

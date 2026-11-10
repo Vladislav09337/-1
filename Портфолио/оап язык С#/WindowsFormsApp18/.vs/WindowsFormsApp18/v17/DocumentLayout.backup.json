@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\windowsformsapp18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|solutionrelative:windowsformsapp18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\windowsformsapp18\\windowsformsapp18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|solutionrelative:windowsformsapp18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\windowsformsapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|solutionrelative:windowsformsapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\windowsformsapp18\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F97476-3311-4443-8625-A05CE8115CFF}|WindowsFormsApp18\\WindowsFormsApp18.csproj|solutionrelative:windowsformsapp18\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp18\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:28:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp18\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp18\\Form1.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:27:59.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp18\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp18\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:27:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp18\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\WindowsFormsApp18\\WindowsFormsApp18\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp18\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:27:51.784Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ConsoleApp16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC89E74-6EE4-4FAE-BDDE-FC085B99E8F9}|ConsoleApp16\\ConsoleApp16.csproj|c:\\users\\ivan7\\desktop\\\u043E\u0430\u043F\\consoleapp16\\consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC89E74-6EE4-4FAE-BDDE-FC085B99E8F9}|ConsoleApp16\\ConsoleApp16.csproj|solutionrelative:consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ConsoleApp16\\ConsoleApp16\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp16\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan7\\Desktop\\\u043E\u0430\u043F\\ConsoleApp16\\ConsoleApp16\\Program.cs",
+              "RelativeToolTip": "ConsoleApp16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:27:54.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
